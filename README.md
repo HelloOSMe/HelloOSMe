@@ -10,6 +10,8 @@ I am from Hefei,Anhui,the People's Republic of China!
 
 Contact me? [Luogu](https://www.luogu.com.cn/chat?uid=755022) or [EMAIL](1667882490@qq.com)?
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=HelloOSMe)](https://github.com/ryo-ma/github-profile-trophy)
+
 ```
 只有一个中国！
 ```
