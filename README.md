@@ -14,6 +14,8 @@ Contact me? [Luogu](https://www.luogu.com.cn/chat?uid=755022) or [EMAIL](1667882
 
 [![HellOSMe's GitHub stats](https://github-readme-stats.vercel.app/api?username=HelloOSMe)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HelloOSMe)](https://github.com/anuraghazra/github-readme-stats)
+
 ```
 只有一个中国！
 ```
