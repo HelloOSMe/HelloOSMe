@@ -16,9 +16,13 @@ Contact me? [Luogu](https://www.luogu.com.cn/chat?uid=755022) or [EMAIL](1667882
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HelloOSMe)](https://github.com/anuraghazra/github-readme-stats)
 
-```
-只有一个中国！
-```
+![My GitHub](https://idage.rickyxrc.top/github/user?username=HelloOSMe)
+
+--------
+
+![](https://s3.bmp.ovh/imgs/2022/10/20/0e093f893d44300b.png)
+
+
 
 <!---
 HelloOSMe/HelloOSMe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
