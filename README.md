@@ -4,6 +4,8 @@
 
 - 👋 Hi, I’m @HelloOSMe
 
+专业OIer，正在冲CSP。
+
 I am from Hefei,Anhui,the People's Republic of China!
 
 Contact me? [Luogu](https://www.luogu.com.cn/chat?uid=755022) or [EMAIL](1667882490@qq.com)?
