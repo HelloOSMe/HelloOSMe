@@ -6,15 +6,8 @@
 
 I am from Hefei,Anhui,the People's Republic of China!
 
-我来自AHHF！
-
-Oh, I am a OIer.
-
-我是一名OIer。
-
 Contact me? [Luogu](https://www.luogu.com.cn/chat?uid=755022) or [EMAIL](1667882490@qq.com)?
 
-想要联系我？[洛谷](https://www.luogu.com.cn/chat?uid=755022) 还是 [电子邮箱](1667882490@qq.com)？
 ```
 只有一个中国！
 ```
