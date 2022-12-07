@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @HelloOSMe
 
-专业OIer，正在冲CSP。
+来自AHHF的OIer，正在冲CSP。
 
 I am from Hefei,Anhui,the People's Republic of China!
 
