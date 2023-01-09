@@ -1,6 +1,6 @@
 + 我是小阳人~
 
-- 👋 Hi, I’m @HelloOSMe
+- 👋 Hi, I’m @HelloOSMe !
 
 来自AHHF的OIer，正在冲CSP。
 
